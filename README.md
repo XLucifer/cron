@@ -1,4 +1,4 @@
 cron
 ====
 
-Cronometro, utilizando apenas css
+Crônometro, utilizando apenas css
